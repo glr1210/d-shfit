@@ -1,10 +1,10 @@
 {
-  "name": "Cipher Syndicate",
-  "short_name": "Cipher",
+  "name": "Vault Breach",
+  "short_name": "Vault",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#07090d",
-  "theme_color": "#c8ff3d",
+  "background_color": "#080506",
+  "theme_color": "#ff3b30",
   "icons": [
     { "src": "assets/favicon-192.png", "sizes": "192x192", "type": "image/png" },
     { "src": "assets/favicon-512.png", "sizes": "512x512", "type": "image/png" }
