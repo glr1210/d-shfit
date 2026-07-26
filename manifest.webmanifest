@@ -1,10 +1,10 @@
 {
-  "name": "ClubCards Fantasy Football",
-  "short_name": "ClubCards",
+  "name": "Cipher Syndicate",
+  "short_name": "Cipher",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#07100c",
-  "theme_color": "#BAFA32",
+  "background_color": "#07090d",
+  "theme_color": "#c8ff3d",
   "icons": [
     { "src": "assets/favicon-192.png", "sizes": "192x192", "type": "image/png" },
     { "src": "assets/favicon-512.png", "sizes": "512x512", "type": "image/png" }
